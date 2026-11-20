@@ -30,7 +30,7 @@ The Linux build is published as a zip archive, so the file has to be unpacked be
 
 ---
 
-## What this page is for
+## What this page is for?
 
 This account holds the written guides for the HyperPay wallet, the HyperCard spending card and the trust questions that sit around both. Each repository answers search questions, not marketing questions: how a balance is held, how to restore a wallet, why a card is declined, what an audit actually covered, and which of the several products called HyperPay a reader is looking at. The pages are written against the published product, and a claim that the product does not support is left out rather than softened.
 
